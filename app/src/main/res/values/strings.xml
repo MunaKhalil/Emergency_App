@@ -1,0 +1,20 @@
+
+    <resources>
+        <string-array name="cases">
+            <item>Superficial wounds</item>
+            <item>Burns</item>
+            <item>Electrical injuries</item>
+            <item>Fractions</item>
+            <item>Choking</item>
+
+        </string-array>
+        <string name="app_name">options\n</string>
+        <string-array name="number">
+            <item> Police 100</item>
+            <item>Ambulance 101</item>
+            <item>Civil defense 102</item>
+
+
+        </string-array>
+        <string name="number">options\n</string>
+    </resources>
